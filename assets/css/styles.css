@@ -1,0 +1,14 @@
+.explore-btn:hover {
+  background-color: #3C3DA1 !important;
+  /*border-radius: 10px !important;*/
+}
+
+.navbar-brand:hover {
+  color: #ffffff !important;
+  text-shadow: 1px 1px 10px rgba(255,255,255,0.2);
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #3c3da1;
+}
+
